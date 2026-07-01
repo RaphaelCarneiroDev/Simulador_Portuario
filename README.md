@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Status](https://img.shields.io/badge/status-Concluído-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-TAD-orange)
+
 # 🚢 Simulador de Operações Portuárias
 
 Simulação de um sistema de gerenciamento portuário desenvolvida em **Python**, utilizando exclusivamente **Tipos Abstratos de Dados (TADs)** implementados do zero.
